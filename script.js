@@ -1,8 +1,9 @@
 const text = [
-  "Tech Support Engineer",
   "Web Developer",
   "Cloud & Networking Enthusiast",
-  "testing"
+  "testing",
+  "Tech Support Engineer",
+
 ];
 
 let index = 0;
@@ -124,4 +125,5 @@ document.addEventListener(
   },
   false,
 );
+
 
